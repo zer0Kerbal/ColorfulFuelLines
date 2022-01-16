@@ -2,8 +2,16 @@
 
 NecroBones
 
-NOTE: KSP 1.4 is required for FTP 2.0.0 or later.
-
 Parts Pack
+
+---
+
+- [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/115315-*)
+- Github - n/a
+- [spacedock](https://spacedock.info/mod/94)
+- Curseforge: n/a
+- CKAN: ColorfulFuelLines
+
+---
 
 CC BY-NC-SA
